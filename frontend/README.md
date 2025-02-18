@@ -60,7 +60,7 @@ This is a car inventory application that allows users to add, list, update, and 
 
 2. Start the frontend development server:
    
-   cd ../frontend/my-react-app
+   cd ../frontend
    npm start
 
 3. Open your browser and navigate to http://localhost:3000 to view the
