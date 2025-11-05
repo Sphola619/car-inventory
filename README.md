@@ -1,4 +1,6 @@
 # Car Inventory
+<img width="1920" height="912" alt="image" src="https://github.com/user-attachments/assets/f264ab13-94ee-48c6-8e68-c8e5737c9f94" />
+
 
 This is a car inventory application that allows users to add, list, update, and delete cars. The application consists of a backend server built with Express and Mongoose, and a frontend built with React.
 
